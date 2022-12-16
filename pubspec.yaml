@@ -1,0 +1,49 @@
+name: to_do_app_v2
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get_storage:
+  get:
+  flutter_local_notifications:
+  flutter_native_timezone:
+  intl:
+  google_fonts:
+  date_picker_timeline:
+  sqflite:
+  flutter_staggered_animations:
+  flutter_svg:
+  rxdart: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons:
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/appicon.jpeg"
+
+flutter:
+
+
+  uses-material-design: true
+
+  
+  assets:
+    - images/person.jpeg
+    - images/task.svg
+
+ 
