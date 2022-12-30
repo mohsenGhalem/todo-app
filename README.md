@@ -35,9 +35,7 @@
   <img src="https://user-images.githubusercontent.com/90144954/174205826-294fff04-8c85-4080-9fd2-bede1d5953c6.png" width=200/>
   <a/>
   
-- #### Support me on <br><a href="https://www.buymeacoffee.com/ghalemmohsz">
-   BUY ME A COFFEE
-   <a/>
+- #### Support me on [BUY ME A COFFEE](https://www.buymeacoffee.com/ghalemmohsz)
    
    
   
