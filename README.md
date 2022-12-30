@@ -36,7 +36,7 @@
   <a/>
   
 - #### Support me on <br><a href="https://www.buymeacoffee.com/ghalemmohsz">
-   <img src="https://user-images.githubusercontent.com/90144954/174206223-4a36b64d-b621-4367-a5a0-508da33ca45d.png" width=200/>
+   BUY ME A COFFEE
    <a/>
    
    
